@@ -33,7 +33,7 @@ I'm currently looking for my first job and open to any opportunities!
 
 ## 🎓 Educational Achievements
 
-- Participant in an online .NET course
+- Participant in an online .NET course ([certificate](https://github.com/Viorbrint/Viorbrint/blob/main/certificate-cs.pdf))
 
 ## 📫 How to reach me
 
