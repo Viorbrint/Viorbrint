@@ -1,8 +1,7 @@
 # Hi, I'm Bogdan! 👋
 
-I'm a junior developer with experience in
+I'm a developer with experience in
 .NET, Blazor, Node.js, and TypeScript.
-I'm currently looking for my first job and open to any opportunities!
 
 ## 🔧 Skills & Technologies
 
